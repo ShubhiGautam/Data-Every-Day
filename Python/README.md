@@ -7,5 +7,5 @@
 ## Python
 | Project | Description |
 | --- | --- |
-| `Day #1: Walmart Holiday Sale Prediction` | Prediction which weekly sales of Walmart was a Holiday
+| `Day #001: Walmart Holiday Sale Prediction` | Prediction which weekly sales of Walmart was a Holiday
 
