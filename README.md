@@ -8,4 +8,8 @@
 | Project | Description |
 | --- | --- |
 | `Day #001: Walmart Holiday Sale Prediction` | Prediction which weekly sales of Walmart was a Holiday
+| `Day #002: Predicting LoL Wins with TensorFlow` | Predicting Blue vs Red team wins of League of Legend
 
+## R
+| Project | Description |
+| --- | --- |
