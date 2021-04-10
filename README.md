@@ -10,6 +10,7 @@
 | `Day #001: Walmart Holiday Sale Prediction` | Prediction which weekly sales of Walmart was a Holiday
 | `Day #002: Predicting LoL Wins with TensorFlow` | Predicting Blue vs Red team wins of League of Legend
 | `Day #003: Predicting if House is in City` | Predicting if a Brazilian house is in a city
+| `Day #004: Graduate Admissions` | Using PCA to Understand Graduate Admissions
 
 ## R
 | Project | Description |
